@@ -1,5 +1,3 @@
-package enums;
-
 public enum Status {
     AT_WORK,
     TO_THE_CINEMA,
